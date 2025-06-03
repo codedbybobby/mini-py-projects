@@ -1,5 +1,4 @@
-# Yu-Gi-Oh Card Info Fetcher 🃁 𓂀𓂀𓂀𓋹𓁈𓃠𓆃☥𓅓𓆣𓂀𓂀𓂀𓋹𓁈𓃠𓆃☥𓅓𓆣𓂀𓂀𓂀𓋹𓁈𓃠𓆃☥𓅓𓆣𓂀
-
+# Yu-Gi-Oh Card Info Fetcher 🃁 𓂀𓂀𓂀𓋹𓁈𓃠𓆃☥𓅓𓆣𓂀𓂀𓂀𓋹
 This is a simple Python project that fetches Yu-Gi-Oh card data 
 using the [YGOPRODeck API](https://db.ygoprodeck.com/api-guide/).
 
