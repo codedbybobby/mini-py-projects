@@ -1,6 +1,6 @@
-
-# Yu-Gi-Oh Card Info Fetcher
-
+# Yu-Gi-Oh Card Info Fetcher 🃁
+𓂀𓂀𓂀𓋹𓁈𓃠𓆃☥𓅓𓆣𓂀𓂀𓂀𓋹𓁈𓃠𓆃☥𓅓𓆣𓂀𓂀𓂀𓋹𓁈𓃠𓆃☥𓅓𓆣𓂀
+##
 This is a simple Python project that fetches Yu-Gi-Oh card data using the [YGOPRODeck API](https://db.ygoprodeck.com/api-guide/).
 
 ## Features
@@ -12,3 +12,4 @@ This is a simple Python project that fetches Yu-Gi-Oh card data using the [YGOPR
 - Display card images along with card info.
 - Add search by card ID or other filters.
 - Add error handling for invalid card names.
+
