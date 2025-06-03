@@ -6,7 +6,7 @@ This is a simple Python project that fetches Yu-Gi-Oh card data using the [YGOPR
 ## Features
 - Fetch card information by card name.
 - Display card ID and name.
-- 
+  
 ## Optimization:
 - Create a GUI for easier card lookup
 - Display card images along with card info.
